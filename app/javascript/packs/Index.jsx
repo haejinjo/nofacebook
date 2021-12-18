@@ -44,7 +44,7 @@ const Feed = () => (
 );
 
 const App = props => (
-  <div className="bg-slate-50">
+  <div>
   <TopNav />
   <div className="mt-12 w-screen ">
   <Feed />
